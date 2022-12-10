@@ -1,4 +1,4 @@
-#LING -5200 Final Project
+# LING -5200 Final Project
 Automatic Sentence Diagrammer
 Tool for automatic sentence diagramming - declaritive simple sentences
  
